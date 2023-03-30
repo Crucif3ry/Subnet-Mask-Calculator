@@ -1,2 +1,15 @@
 # SatuRn-Subnet-Mask-Calculator
-SatuRn is a fast subnet mask calculator ipv4 and ipv6 in python
+
+SUMMARY
+
+SatuRn is a fast and simple subnet mask calculator in python.
+
+For ipv4 ans Ipv6
+
+INSTALLATION
+
+download the zip file, extract and run the script in the terminal 
+
+LISCENCE 
+
+https://www.gnu.org/licenses/gpl-3.0.fr.html
