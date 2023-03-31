@@ -11,9 +11,9 @@ Download the zip file, extract and run the script in the terminal
 
 *VERSION*
 
-SatuRn Version 1.0 *30/03/2023
-
-SatuRn Version 1.1 *31/03/2023
+SatuRn Version 1.0 *30/03/2023*
+-------------------------------
+SatuRn Version 1.1 *31/03/2023*
 
 *LISCENCE*
 
