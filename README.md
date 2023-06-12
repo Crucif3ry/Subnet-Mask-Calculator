@@ -3,7 +3,7 @@
 *SUMMARY*
 
 SatuRn is a fast and simple subnet mask calculator in python
-for ipv4 ans Ipv6
+for ipv4 and Ipv6
 
 *INSTALLATION*
 
