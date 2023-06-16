@@ -1,3 +1,6 @@
+#Subnet Mask Calculator in python
+# by Crucifery
+
 #V1.1 add :
 #Handling Invalid Input
 #IP address classes, membership in private or public networks, types of subnets
