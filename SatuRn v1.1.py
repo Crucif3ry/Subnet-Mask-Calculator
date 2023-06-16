@@ -1,6 +1,8 @@
+#V1.1 add :
 #Handling Invalid Input
 #IP address classes, membership in private or public networks, types of subnets
 #Adding input validation
+#
 
 import ipaddress
 
@@ -21,7 +23,7 @@ print("""                                _.oo.
  dMMMMMMM@^`       `^^^^
 YMMMUP^
  ^^""")
-print("By Crucif3ry V 1.1")
+print("By Crucif3ry, V 1.1")
 
 def main():
     while True:
