@@ -21,7 +21,7 @@ print("""                                _.oo.
  dMMMMMMM@^`       `^^^^
 YMMMUP^
  ^^""")
-print("By Crucif3ry V 1.0")
+print("By Crucif3ry V 1.1")
 
 def main():
     while True:
